@@ -1,3 +1,14 @@
 /* font-family: 'Inter', sans-serif;
 font-family: 'Poppins', sans-serif;  */
-
+.thumbnail {
+	margin-bottom: 6px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.thumbnail img {
+	width: 100%;
+	padding: 2%;
+}
+footer {
+    background-color: #d1111b;
+  }
